@@ -1,3 +1,5 @@
+//THIS IS MY CUSTOM VERSION. GO FOR THE ORIGINAL AS IT MOST LIKELY WILL SUIT YOU BETTER!
+
 This is the Readme file to Objective Development's firmware-only USB driver
 for Atmel AVR microcontrollers. For more information please visit
 http://www.obdev.at/vusb/
